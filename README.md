@@ -38,7 +38,7 @@
 
 ## 🧪 Model Performance
 |          Model          | Accuracy| 
-|----------------------- -|---------|
+|-------------------------|---------|
 |  KNeighborClassifier    |   0.78  |
 |  SVC                    |   0.79  |
 |  LogisticRegression     |   0.80  |

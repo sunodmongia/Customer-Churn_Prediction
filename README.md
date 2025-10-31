@@ -59,7 +59,7 @@
 
 1. **Clone the repository**:
    ```bash
-      git clone https://github.com/sunodmongia/Customer_Churn_Prediction.git
+      git clone https://github.com/sunodmongia/Customer-Churn_Prediction.git
       cd Customer_Churn_Prediction
 
 

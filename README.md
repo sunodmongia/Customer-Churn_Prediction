@@ -4,6 +4,8 @@
 - It uses end-to-end data preprocessing, feature engineering, model selection, hyperparameter tuning, and evaluation pipelines with Scikit-learn.
 - The dataset used represents a telecom company’s customer base, including attributes like tenure, billing method, contract type, and internet service details.
 
+<img width="636" height="671" alt="image" src="https://github.com/user-attachments/assets/984713e7-8fe8-4be8-a039-13ad765ce8f2" />
+
 ---
 
 ## 🎯 Objective

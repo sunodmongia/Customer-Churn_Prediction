@@ -35,6 +35,7 @@
 
 - 📊 Model evaluation (Accuracy, Precision, Recall, F1-score, ROC-AUC) using classification_report
 - 📈 Visual analysis (correlation heatmap, churn distribution, feature importance, PieChart, Histogram)
+- Note: Model evaluation are on basis of Yes or No of the Customer, Yes and No has there own scores.
 
 ## 🧪 Model Performance
 |          Model          | Accuracy| 
